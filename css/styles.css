@@ -219,7 +219,7 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
       }
 
       .footer{
-        height:160px;
+        height:180px;
        }
      .flist1{
        height:160px;
@@ -238,11 +238,11 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
      }
      .flist2 h4{
        font-size:15px;
-       margin-left:20px;
+       margin-left:10px;
      }
      .flist2 li{
        font-size:12px;
        margin-top:10px;
-       margin-left:20px;
+       margin-left:5px;
      }
 }
